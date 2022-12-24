@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
-Get the values from the user for list variable "l"
+Get the values from the user for list variable 'l'
 ### Step 2:
 Get the value from the user for the number of rotation
 ### Step 3: 
@@ -14,7 +14,7 @@ Then define a function with function name circulate
 ### Step 4: 
 Using the slicing concept rotate the list
 ### Step 5:
-Print the values of list variable "l", outside the function using functioncall after circulating variables
+Print the values of list variable 'l', outside the function using functioncall after circulating variables
 ### Step 6:
 End the program 
 
